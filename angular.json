@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "integration-testing-demo"
+    }
+  },
+  "defaultProject": "integration-testing-demo",
+  "cli": {
+    "analytics": false
+  }
 }
